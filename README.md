@@ -14,6 +14,7 @@
 
 - Update Google Chrome Browser
 - Mysql DB server running
+- Create Database Name amazonscriptingdb
 - Open Terminal or command line
 - python rpa_bot.py
 - Please wait some seconds
