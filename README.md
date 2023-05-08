@@ -14,4 +14,8 @@
 
 - Update Google Chrome Browser
 - Mysql DB server running
+- Open Terminal or command line
 - python rpa_bot.py
+- Please wait some seconds
+- Terminal show please input the search key for amazon
+- Then you give input key like that phone, laptop etc
